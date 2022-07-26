@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JellyfinRenameAndMoveToFolder": {
+      "commandName": "Project",
+      "commandLineArgs": "-f * -s D:\\T\\1 -t D:\\T\\1"
+    }
+  }
+}
